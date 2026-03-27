@@ -1,0 +1,5701 @@
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4008
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    0
+]
+#1-B_FLAG_SET
+[
+    4008,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        22,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-18
+[]
+#1-G_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        249,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    "*STOP*"
+]
+#2-0
+#1-W_FLAG_SET
+[
+    15,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-B_FLAG_SET
+[
+    4010,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#2-33
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    1
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        6,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                3,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        6,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        17,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        13,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            ""
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                17,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        25,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-SPEC_SYS
+[
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                100,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        0,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    2
+]
+#1-JUMP
+[
+    1
+]
+#1-JUMP
+[
+    3
+]
+#2-2
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    4
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E01.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-4
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        2,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    5
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E02.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-5
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        3,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    6
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E03.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-6
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        4,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    7
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E04.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-7
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        5,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    8
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E05.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-8
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        6,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    9
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E06.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-9
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        7,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    10
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E07.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-10
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        8,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    11
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E08.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-11
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        9,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    12
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E09.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-12
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        10,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    13
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E10.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-13
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        11,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    14
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E11.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-14
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        12,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    15
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E12.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-15
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        13,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    16
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E13.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-16
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        14,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    17
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E14.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-17
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        15,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    18
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E15.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-18
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        16,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    19
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E16.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-19
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        17,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    20
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E17.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-20
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        18,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    21
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E18.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-21
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        19,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    22
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E19.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-22
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        20,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    23
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E20.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-23
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        21,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    24
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E21.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-24
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        22,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    25
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E22.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-25
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        23,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    26
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E23.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-26
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        24,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    27
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E24.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-27
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        25,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    28
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E25.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-28
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        26,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    29
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E26.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-29
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        27,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    30
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E27.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-30
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        28,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    31
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E28.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-31
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        29,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    32
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E29.mes"
+        ]
+    ]
+]
+#1-JUMP
+[
+    3
+]
+#2-32
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "W_FLAG",
+        [
+            18
+        ],
+        "RAW",
+        30,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    3
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-W_FLAG_SET
+[
+    16,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-CALL
+[
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "scene_E30.mes"
+        ]
+    ]
+]
+#2-3
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        10,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        25,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "black.gcc"
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        7,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "black.gcc"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        10,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP
+[
+    33
+]
+#2-1
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        25,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "title_pt.gcc"
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        23,
+        "A_FLAG",
+        [
+            0
+        ],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "title_bg.gcc"
+        ]
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "GET_H",
+                [
+                    339
+                ],
+                "ADD",
+                [],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "GET_H",
+                [
+                    599
+                ],
+                "ADD",
+                [],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    228
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                23,
+                "A_FLAG",
+                [
+                    0
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    340
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    340
+                ],
+                "GET_H",
+                [
+                    631
+                ],
+                "ADD",
+                [],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "GET_H",
+                [
+                    287
+                ],
+                "ADD",
+                [],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    168
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    312
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                23,
+                "A_FLAG",
+                [
+                    0
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    340
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    288
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    340
+                ],
+                "GET_H",
+                [
+                    631
+                ],
+                "ADD",
+                [],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    288
+                ],
+                "GET_H",
+                [
+                    287
+                ],
+                "ADD",
+                [],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    168
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    312
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                23,
+                "A_FLAG",
+                [
+                    0
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "RAW",
+        32,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    799
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    599
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-B_FLAG_SET
+[
+    4010,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-RETURN
+[]

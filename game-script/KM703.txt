@@ -1,0 +1,6794 @@
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4008
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    0
+]
+#1-B_FLAG_SET
+[
+    4008,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        22,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-18
+[]
+#1-G_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        249,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    "*STOP*"
+]
+#2-0
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    800
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    600
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                10,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    799
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    599
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-W_FLAG_SET
+[
+    24,
+    [
+        "*STRUCT*",
+        "GET_H",
+        [
+            600
+        ],
+        "RAW",
+        24,
+        "SUB",
+        [],
+        "RAW",
+        2,
+        "DIV",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "GET_H",
+        [
+            800
+        ],
+        "RAW",
+        23,
+        "RAW",
+        24,
+        "MUL",
+        [],
+        "SUB",
+        [],
+        "RAW",
+        2,
+        "DIV",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*",
+        [
+            [
+                "*STRUCT*",
+                "W_FLAG",
+                [
+                    24
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-TEXT
+[
+    "宏治の顔を見なくて、もう何日経ったんだろう……"
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        23,
+        "A_FLAG",
+        [
+            0
+        ],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    799
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    599
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                7,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    799
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    599
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                23,
+                "A_FLAG",
+                [
+                    0
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            128
+        ],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            3000
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "RAW",
+        64,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        10,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        25,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "jbg04a_1.gcc"
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        7,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "jbg04a_1.gcc"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        3,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "j_fa00.gcc"
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        6,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        8,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "j_fa00.gcc"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        12,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        13,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            ""
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            128
+        ],
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        7,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "f0066.ogg"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -129
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "佐藤部長「さて……どうだ、宮坂？　ちょっと早いけど軽く一杯……」"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    1
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            7248
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP
+[
+    2
+]
+#2-1
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#2-2
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    3
+]
+#1-RETURN
+[]
+#2-3
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-TEXT
+[
+    "時計を見ると、もうそんな時間だった。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    4
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            7249
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP
+[
+    5
+]
+#2-4
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#2-5
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    6
+]
+#1-RETURN
+[]
+#2-6
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            128
+        ],
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        7,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "x0086.ogg"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -129
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "ショートヘアの女のコ「あー！　いいなぁ……部長、私も連れて行ってくださいよぉ」"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    7
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            7250
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP
+[
+    8
+]
+#2-7
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#2-8
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    9
+]
+#1-RETURN
+[]
+#2-9
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        3,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "j_fa01.gcc"
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        8,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "j_fa01.gcc"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            128
+        ],
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        7,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "f0067.ogg"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -129
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "佐藤部長「お、おぉ……構わんが……」"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    10
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            7251
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP
+[
+    11
+]
+#2-10
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#2-11
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    12
+]
+#1-RETURN
+[]
+#2-12
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-TEXT
+[
+    "突然上がった彼女の声に、佐藤部長が俺の方を見て助け舟を求めている……どうやら、佐藤部長も彼女は苦手らしい……決して悪い娘ではないのだが……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    13
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            7252
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP
+[
+    14
+]
+#2-13
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#2-14
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    15
+]
+#1-RETURN
+[]
+#2-15
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-TEXT
+[
+    "俺としては久しぶりに佐藤部長とゆっくり話がしたかったが、この状態で行くと佐藤部長を変に疲れさせてしまうだけかも知れないな……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    16
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            7253
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP
+[
+    17
+]
+#2-16
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#2-17
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    18
+]
+#1-RETURN
+[]
+#2-18
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-1b
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        100,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-MENU_SET
+[
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ],
+    19
+]
+#1-TEXT
+[
+    "断って帰る"
+]
+#1-RETURN
+[]
+#2-19
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        17,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    20
+]
+#1-RETURN
+[]
+#2-20
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        25,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "jbg04a_1.gcc"
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        25,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "jbg04a_1.gcc"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        26,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        3,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "j_aa05a.gcc"
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        17,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        13,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            ""
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                17,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-TEXT
+[
+    "ハプニングバーの時から、宏治とすれ違いが始まって、望月さんになじられて……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13865
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    21
+]
+#1-RETURN
+[]
+#2-21
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-NEW_LINE
+[
+    0
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "結局まだこの日も、宏治の前に顔を見せるかどうか悩んで……何も出来ないまま、夕日をボーッと見てたんだ……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13866
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    22
+]
+#1-RETURN
+[]
+#2-22
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-NEW_LINE
+[
+    0
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "フラワーパークの時もそうだったけど、私たちがうまく行かない時って、私が逃げて、宏治が追うみたいな形になってるよね。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13867
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    23
+]
+#1-RETURN
+[]
+#2-23
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-NEW_LINE
+[
+    0
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "このまま逃げ切っちゃうのもいいかも知れない……なんて考えたりもしたんだ。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13868
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    24
+]
+#1-RETURN
+[]
+#2-24
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-NEW_LINE
+[
+    0
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "いつの間にか私は、宏治が引いちゃう位の淫乱になっちゃったのかなって不安だった。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13869
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    25
+]
+#1-RETURN
+[]
+#2-25
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-NEW_LINE
+[
+    0
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "義務感だけで私を追ってきて、たとえ捕まえてくれても、本心では呆れてるかもって……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13870
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    26
+]
+#1-RETURN
+[]
+#2-26
+#1-TEXT
+[
+    "もう私は、初めて宏治とエッチした頃みたいな女じゃないんだよ……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13871
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        28,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    27
+]
+#1-RETURN
+[]
+#2-27
+#1-TEXT
+[
+    "『恥ずかしい』よりも『気持ちいい』の方が強くなってて……自分でもどうにもならない位にイヤらしくなっちゃったんだ。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13872
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    28
+]
+#1-RETURN
+[]
+#2-28
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-NEW_LINE
+[
+    0
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "宏治と付き合う前はさ、エッチがあまり好きじゃないって話、したかな？"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13873
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    29
+]
+#1-RETURN
+[]
+#2-29
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-NEW_LINE
+[
+    0
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "男の人ってエッチの後とかにさ、妙に冷たくなったりするじゃない？　エッチが嫌いっていうより、あの冷たさがイヤだったんだ……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13874
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    30
+]
+#1-RETURN
+[]
+#2-30
+#1-TEXT
+[
+    "いつか宏治もそんな風になって、エッチ以外の時も冷たくなったりしないかって、すごく怖かった……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13875
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    31
+]
+#1-RETURN
+[]
+#2-31
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-NEW_LINE
+[
+    0
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "そんな時、宏治からメールが来なくなったことに気付いたんだ……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13876
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    32
+]
+#1-RETURN
+[]
+#2-32
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-NEW_LINE
+[
+    0
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "宏治に嫌われるのは怖いけど、このまま別れちゃうことの方が、もっと怖かったから……。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13877
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        27,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    33
+]
+#1-RETURN
+[]
+#2-33
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        3,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "j_aa04a.gcc"
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "宏治に会わなきゃって思ったんだ。"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            13878
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        28,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    34
+]
+#1-RETURN
+[]
+#2-34
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        25,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "jbg04a_1.gcc"
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        7,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "jbg04a_1.gcc"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        13,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            ""
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        26,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        3,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "NAME",
+        [
+            "j_fa01.gcc"
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        8,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "j_fa01.gcc"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-B_FLAG_SET
+[
+    2838,
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-TEXT
+[
+    "宏治「今日はやめておきましょう。俺もちょっと用事があるし。ね、部長……」"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    35
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            7254
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP
+[
+    36
+]
+#2-35
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#2-36
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    37
+]
+#1-RETURN
+[]
+#2-37
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            128
+        ],
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        7,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "f0068.ogg"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -129
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-TEXT
+[
+    "佐藤部長「そ、そうだな。そうするか……」"
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "EQ",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    38
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            7255
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-JUMP
+[
+    39
+]
+#2-38
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#2-39
+#1-JUMP_IF
+[
+    [
+        "*STRUCT*",
+        "EXT_B_FLAG",
+        [
+            4010
+        ],
+        "RAW",
+        0,
+        "NOT_EQ",
+        [],
+        "W_FLAG",
+        [
+            16
+        ],
+        "RAW",
+        1,
+        "EQ",
+        [],
+        "BYTE_AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    40
+]
+#1-RETURN
+[]
+#2-40
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        10,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        25,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "black.gcc"
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        7,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                4,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "NAME",
+        [
+            "black.gcc"
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        10,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "GET_H",
+        [
+            -17
+        ],
+        "AND",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    800
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    600
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                10,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    799
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    599
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-W_FLAG_SET
+[
+    24,
+    [
+        "*STRUCT*",
+        "GET_H",
+        [
+            600
+        ],
+        "RAW",
+        24,
+        "SUB",
+        [],
+        "RAW",
+        2,
+        "DIV",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "GET_H",
+        [
+            800
+        ],
+        "RAW",
+        18,
+        "RAW",
+        24,
+        "MUL",
+        [],
+        "SUB",
+        [],
+        "RAW",
+        2,
+        "DIV",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*",
+        [
+            [
+                "*STRUCT*",
+                "W_FLAG",
+                [
+                    24
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-MESSAGE
+[
+    "*MESSAGE_NUMBER*"
+]
+#1-TEXT
+[
+    "やっぱり、宏治がいないとダメだよ……"
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        23,
+        "A_FLAG",
+        [
+            0
+        ],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    799
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    599
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                7,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    799
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "GET_H",
+                [
+                    599
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                23,
+                "A_FLAG",
+                [
+                    0
+                ],
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            128
+        ],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "GET_H",
+        [
+            3000
+        ],
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        19,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        9,
+        "RAW",
+        2,
+        "RAW",
+        0,
+        "RAW",
+        64,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        11,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-1d
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "RAW",
+        14,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        2,
+        "A_FLAG",
+        [
+            0
+        ],
+        "RAW",
+        16,
+        "OR",
+        [],
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        6,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                3,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        5,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                0,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-A_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        103,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        0,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-SYS
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        24,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*VARIABLE*",
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                1,
+                "STRUCT_END",
+                []
+            ]
+        ],
+        "EXPRESSION",
+        [
+            [
+                "*STRUCT*",
+                "RAW",
+                2,
+                "STRUCT_END",
+                []
+            ]
+        ]
+    ]
+]
+#1-PW_FLAG_SET
+[
+    [
+        "*STRUCT*",
+        "RAW",
+        1,
+        "RAW",
+        0,
+        "RAW",
+        1,
+        "STRUCT_END",
+        []
+    ],
+    0,
+    [
+        "*STRUCT*",
+        "RAW",
+        29,
+        "RAW",
+        2,
+        "RAW",
+        10,
+        "STRUCT_END",
+        []
+    ],
+    [
+        "*GROUP*"
+    ]
+]
+#1-RETURN
+[]
