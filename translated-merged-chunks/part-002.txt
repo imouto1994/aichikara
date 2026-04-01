@@ -1,0 +1,679 @@
+--------------------
+01-05
+********************
+The next day, I came straight to the hospital.
+Of course, it was for work... but...
+(...First, I want to see Takanashi-san... I want to see Karen... but...)
+I can't afford to neglect checking in with Dr. Takahashi. As long as I'm coming to this hospital for work, I don't want to be on that man's bad side...
+Now, what should I do?
+Go to Dr. Takahashi's office
+Go to Surgery
+(Alright! Surgery it is!)
+It's always better to get the fun things out of the way first... that's my personal motto, anyway.
+Having reached that conclusion, I decided to head toward the Surgery nurse station to listen to Karen's chilly jokes.
+$Karen
+“Ah, Miyama Sangyo-san. Thanks for your hard work every day.”
+$Kouji
+“Same to you, sorry for bothering you every day.”
+$Karen
+“That's perfect timing. Come over here for a moment.”
+The Surgery waiting room Karen led me to was deserted, since it was outside of outpatient hours.
+$Karen
+“Now then, please lie down over there in the corner.”
+$Kouji
+“What on earth are we doing today...?”
+I asked as I lay down on the sofa just as I was told.
+$Karen
+“This is Dr. Takanashi's house call. It appears you have a disease that you can't tell other people about.”
+Play along and expose my stomach
+Demand to know what's going on
+$Kouji
+“Huh...?”
+$Karen
+“Anyway, stop grumbling and just lie down there.”
+$Kouji
+“Y-Yes...”
+I lay down on the sofa as instructed and decided to play along.
+Still, it's not for me to say, but... is this really okay? This.
+$Karen
+“Where does it hurt?”
+$Kouji
+“Yes, my stomach hurts.”
+$Karen
+“Your stomach, I see. Can you tell me specifically whereabout?”
+$Kouji
+“Yes... it's a dull pain around the area below my navel.”
+$Karen
+“That's terrible! Let's see now.”
+The stethoscope tickled my stomach.
+$Kouji
+“How does it look?”
+I asked, strictly maintaining my stance as the patient.
+$Karen
+“No... this is worse than I imagined.”
+$Kouji
+“Eh...? What on earth should I do?”
+$Karen
+“At this rate, you'll definitely be hospitalized... I'll handle the paperwork now.”
+$Kouji
+“What kind of disease is it?”
+$Karen
+“It appears to be an outie belly button.”
+$Kouji
+“............”
+(Her sense of humor is as bad as ever.)
+$Kouji
+“...I mean, what was that all about?”
+$Karen
+“Ah—sorry. We aren't very familiar with stethoscopes, and I thought I'd like to try one out...”
+$Kouji
+“And I happened to come along as a convenient subject, is that it?”
+$Karen
+“That's right... hee hee hee.”
+$Kouji
+“So you instinctively started playing doctor...”
+$Karen
+“Ah, Miyama-san, you're thinking about something naughty, aren't you?”
+$Kouji
+“That's not it at all! It's a misunderstanding...”
+$Kouji
+“W-What on earth is going on?”
+I recoiled at the bizarre enthusiasm and asked instinctively.
+$Karen
+“Eh? It's Dr. Takanashi! Now, lie down right there!”
+$Kouji
+“W-Wait a minute...”
+I couldn't keep up with that energy at all.
+$Kouji
+“Um... people will come by here...”
+$Karen
+“...B-But...”
+Even Karen seemed to get worried, and her energy dropped a bit.
+$Kouji
+“Just what is the matter?”
+I asked in a soft voice, as if soothing Karen who wore a child-like expression.
+$Karen
+“I found a stethoscope and got excited... and then...”
+The way she talked while looking down seemed incredibly cute.
+$Karen
+“Sometimes, I just suddenly rush ahead of myself like this...”
+$Kouji
+“I-Isn't that fine?”
+(That wasn't much of a follow-up...)
+$Karen
+“I know it's childish...”
+$Kouji
+“No, it's cute, I think it's good...”
+(Even if I can't keep up sometimes...)
+$Karen
+“Really? I'm a bit relieved to hear you say that...”
+$Slant-Eyed Nurse
+“Takanashi-san!”
+At that moment, a voice calling for Karen could be heard from the direction of the patient rooms.
+$Karen
+“Yes—! I'm coming now... sorry...”
+$Kouji
+“N-No, I'm glad I could be of help.”
+$Karen
+“Well then, see you later.”
+$Kouji
+“Whew...”
+I sighed while watching Karen's back as she hurried away.
+(Karen really is different from the other nurses somehow...)
+I'm sure I'm attracted to that part of her, too...
+(...Ah, come to think of it, I forgot to ask about Assistant Professor Sawada... well, I'll go ask someone else.)
+$Kouji
+“Ah, hello... is Assistant Professor Sawada in today?”
+I caught a nurse I knew at the nurse station and asked.
+$Nurse with Braids
+“Oh... Miyama Sangyo-san. You're as close with Takanashi-san as ever. It makes me jealous...”
+Wha... was that exchange earlier being watched?!
+No, more importantly, are there rumors about the relationship between Karen and me among the nurses...?
+$Kouji
+“Ah... no, that's not the case.”
+$Nurse with Braids
+“I wonder... well, fine... regarding Assistant Professor Sawada...”
+$Kouji
+“Y-Yes...”
+$Nurse with Braids
+“He's not in here today either. What was your business?”
+$Kouji
+“N-No, it's fine, I'll come back.”
+I managed to suppress my agitation and said only that, before leaving the nurse station as if running away.
+(Now, work, work...)
+I switched my mind to work and headed toward Dr. Takahashi's room.
+However, the more fun times I spent with Karen, the more my feelings toward this job seemed to fade.
+But I can't afford to lose this job here.
+Even just so I can see Karen...
+(I'll do my best...)
+$Kouji
+“Y-You are...”
+While walking and thinking about such things, I met a familiar face. Yes, she was...
+$Emiko
+“Thank you for your hard work. Do you remember me? From that time...”
+Of course, there was no way I could forget...
+$Emiko
+“Allow me to introduce myself again, my name is Mochizuki Emiko. I work in Urology...”
+$Kouji
+“Ah, I-I'm...”
+In an instant, I remembered that lewd scene from that day, and the blood rushed to my head, leaving me stammering.
+I felt as if I could see a sensual light deep in her eyes as she gazed at me, and I swallowed hard.
+...She gave an impression that was the opposite of Takanashi Karen.
+If I were to compare Karen to a flower, she'd be like a morning glory or a sunflower, but Mochizuki-san was the very image of a moonflower.
+Reserved yet alluring... that was the feeling.
+$Emiko
+“You're Mr. Miyasaka Kouji from Miyama Sangyo, aren't you. I know you well. Since you haven't shown your face at our station recently, I was worried.”
+(This girl is unexpectedly the type to speak her mind clearly...)
+Though I was a bit bewildered by the tone that contradicted her reserved expression, it was true that I had been staying away from the nurse stations other than Surgery lately, so I had no choice but to admit it.
+I felt a bit guilty, as if a small child's prank had been discovered.
+$Kouji
+“S-Sorry. I intend to visit soon.”
+$Emiko
+“No, I didn't mean it that way. I'm sorry if I offended you, I just...”
+She cut off her words there and looked straight into my eyes.
+$Kouji
+“...”
+I couldn't look back into her eyes... I don't know why, but it was extremely awkward...
+(What should I do? To get through this...)
+Listen to Emiko until the end
+Leave this place
+$Kouji
+“Sorry. I'm in a hurry, so please excuse me.”
+$Emiko
+“Ah...”
+I bowed without even looking at her.
+$Emiko
+“...I just...”
+I slowly returned my gaze to Mochizuki-san's face.
+(She has attractive eyes, doesn't she...)
+$Emiko
+“...I just wanted to properly thank you...”
+Mochizuki-san said that, her face turning red.
+That expression overlapped once again with that erotic scene.
+(...This girl... every single one of her expressions is sexy...)
+$Kouji
+“N-No...”
+I could tell my own face was turning red as I stammered.
+$Emiko
+“Thanks to you, ever since then... those kinds of things haven't been done to me anymore...”
+(Those kinds of things...)
+I couldn't find the words to say.
+$Kouji
+“............”
+$Emiko
+“U-Um...”
+$Kouji
+“Y-Yes...?”
+Mochizuki-san seemed like she wanted to say something... I accidentally shifted my gaze to her chest.
+(They're quite large breasts...)
+I instinctively swallowed my saliva.
+Before I knew it, my imagination began to swell, and my lower body started to grow hot.
+$Kouji
+“W-Well then...”
+$Emiko
+“Ah! Miyama-san!”
+Suddenly feeling awkward, I left Mochizuki-san behind and hurried away from the spot.
+(...I should be safe this far, right?)
+I turned the corner of the hallway and let out a sigh of relief.
+Still, what was that... that feeling toward Mochizuki-san...
+Looking at her again, it was certain that I thought she was a fine woman.
+Part of it might be because I witnessed that lewd body, but I think she overflows with sexual charm to begin with.
+...But something was different.
+If I had a camera, I feel like I'd instinctively snap a picture of Karen, but I don't think it would be that way with Mochizuki-san, or rather...
+(...!)
+Realizing that I was unconsciously comparing Karen and Mochizuki-san, my thoughts came to a halt.
+(What on earth am I thinking? Even if I think about this, it won't lead to anything...)
+I slowly shifted my mind back to work.
+(...I have to go to Dr. Takahashi's place.)
+$Takahashi
+“Were you able to meet Sawada?”
+Dr. Takahashi seemed a bit out of sorts today.
+$Kouji
+“No... it seems Dr. Sawada is busy, and I can't quite meet him. I'm truly sorry, even after you went to the trouble of introducing me.”
+I made an effort to be more cautious than usual with my responses.
+$Takahashi
+“Hmph... there's no use telling you, but that man neglects his work and does nothing but devour nurses... Good grief!”
+(...Eh?)
+I suddenly felt uneasy at those words. A genius surgeon who devours nurses...
+Could Karen be one of them?
+$Takahashi
+“Good grief, I've called in a terrible fellow, damn it... Ah, by the way, about next month's order...”
+Karen and Sawada... but what can I do now? As a mere outside contractor, there's nothing I can do...
+But even so, there's no way I can just give up.
+The more I thought about it, the more my frustration grew, and that further fueled my confusion.
+(What... on earth should I do...)
+$Takahashi
+“...Hey... Miyama-san, are you listening? Hey, what's wrong with you?”
+$Kouji
+“Ah, sorry...”
+$Takahashi
+“What's the matter? Ah, are you overworking? No, or is it that, did you play around with women too much last night? Good grief, young people these days...”
+$Kouji
+“...”
+$Takahashi
+“Oh? Seeing how you're keeping quiet, did I hit the mark? It's not one of our nurses, is it?”
+$Kouji
+“N-No, it's not...”
+$Takahashi
+“Hmph, well fine. Oh, come to think of it, the head nurse here... Head Nurse Nagatsuma, you'd better be careful of her. Ho-ho-ho-ho-ho...”
+Looking at Dr. Takahashi's face as he laughed with the corners of his mouth distorted, I gradually regained my composure.
+$Kouji
+“The head nurse, did something happen?”
+$Takahashi
+“The legends of Nagatsuma the Virgin Eater are a famous story in this hospital.”
+(V-Virgin Eater...)
+$Takahashi
+“What, you didn't know? It's a story so famous that there's no one among the outside contractors who doesn't know it. Well, since you don't look like a Virgin-kun, it probably doesn't concern you... Ho-ho-ho-ho-ho.”
+$Kouji
+“W-Why would you suddenly say something like that?”
+$Takahashi
+“...No, well, the rumors among the nurses are rife because they saw you and the head nurse talking intimately. It's tough being a popular man... Ho-ho-ho-ho-ho...”
+(...Is he being sarcastic? This dirty old man...)
+$Kouji
+“Ha, ha, ahahahaha.”
+I gave a hollow laugh that was obvious even to myself.
+In any case, it would be bad if strange rumors spread.
+(I have to be careful about my actions...)
+I was thinking that, while Karen's smiling face floated in my mind.
+I got the signature on the order form and left the room. Anyway, the work was finished with this.
+Right now... I feel like being alone somehow.
+(The general nurse station in the old wing, huh...)
+It's certainly been a while. Maybe I was avoiding coming here unconsciously.
+For some reason, I was looking for Mochizuki-san.
+$Tall Nurse
+“As I thought, girls who can be eaten get eaten by everyone~. Look, there's Tabata in Obstetrics, right, the one from your year... That girl, with Dr. Ito, and Dr. Aoki, and even Professor Takarada...”
+$Baby-Faced Nurse
+“Then, is everyone brothers?”
+The clear voice of a young nurse reached my ears.
+A few nurses gathered in the corner of the room, whispering about some rumors, was the usual familiar sight.
+It seemed that the messy lower-body affairs of doctors and nurses who carry excessive stress daily were a choice topic no matter where you went.
+I couldn't say anything about the credibility, but well, it's probably not far off.
+$Reiko
+“Oh, Miyama-san. It's been a while.”
+I wasn't the only one snapped back to reality by the sudden cold voice.
+The nurses who had been huddled together talking dispersed at once.
+$Kouji
+“...Ah, Head Nurse. Sorry for not seeing you for a long time...”
+$Reiko
+“I have something to talk to you about, would that be alright?”
+$Kouji
+“Y-Yes...”
+By the time I answered, the head nurse had already started walking.
+(What is it? Is it something that can't be discussed here?)
+I followed meekly after the head nurse without exchanging a single word.
+$Takahashi
+"Head Nurse Nagatsuma, you'd better be careful of her. Ho-ho-ho-ho-ho..."
+When we reached a place where there were no more people passing by, Dr. Takahashi's words suddenly flashed through my mind.
+(C-Could it be... But even so, why me? I thought I was nothing but hated by the head nurse...)
+However... I stared at the back of the head nurse walking in front of me.
+(She has a body that men like as ever... especially that line from her waist to her buttocks, it has a real womanly feel to it...)
+The moment I thought that, Karen's smiling face flashed in my mind, and I hurriedly shook my head to chase away the lewd thoughts.
+But given my position, when the head nurse says she has something to discuss, there's no way I can flatly refuse...
+(Besides, this is work. Even if something were to happen... it's not like I gave in to the head nurse's temptation...)
+...This might also just be an excuse to myself.
+The head nurse stopped in front of a certain room and looked around. Even then, her cold expression didn't change a single muscle...
+But it couldn't be said that it wasn't one of the elements that made up her beauty.
+$Reiko
+“Enter...”
+I had no choice but to silently obey that tone that didn't allow for any argument.
+Was it a conference room that wasn't being used now... desks were lined up in a cluttered way, and the air inside the room was a bit dusty...
+The head nurse closed the door with her hand behind her, and then, she locked it.
+Looking at me, her expression didn't change at all...
+Looking only at that face, it was impossible to read what she was thinking.
+Perhaps due to tension, I couldn't make a sound... I felt as if the sound of me swallowing hard echoed throughout the room.
+$Reiko
+“What are you afraid of? It's not like I'm going to devour you...”
+$Kouji
+“Y-Yes...”
+Though I barely managed to answer, this was just like a frog being glared at by a snake...
+$Reiko
+“Now that I look closely, you have a cute face, don't you...”
+That one sentence was decisive. It seems Dr. Takahashi's story wasn't an exaggeration at all...
+The head nurse, called the Virgin Eater, is aiming for me...
+(Y-You've got to be joking... should I say I'm not a virgin... no, a careless remark would be bad... what should I do?)
+Try to act tough
+Run away
+(Should I run...?)
+No, if I run away here, she'll think I'm just an innocent man who's frightened. It would be better to be dignified.
+While being careful not to let my voice tremble, I tried my best to act tough.
+$Kouji
+“I'm something of an older-woman-killer, even if I look like this...”
+$Reiko
+“Oh? Really?”
+The head nurse said in a tone that seemed to mock me while tilting her head.
+$Kouji
+“For some reason, I've been liked by older women since a long time ago, and I often ended up making them cry in the end...”
+$Reiko
+“Hmph... then, in what way did you make them cry?”
+The head nurse drew closer.
+I had no choice but to continue the bluff while clutching my sweaty hands.
+$Kouji
+“...Eh... w-well...”
+No words came to mind.
+Head Nurse Nagatsuma closed the distance further.
+$Reiko
+“...It seems you're sweating a lot, doesn't it? I wonder if it's hot?”
+The head nurse wore a faint smile. But again, that smile was strangely bewitching.
+$Kouji
+“...E-Everyone says I'm a technician...”
+My voice was certainly trembling. It was a lie that would be seen through at once if put to a lie detector.
+$Reiko
+“Oh, really...”
+Head Nurse Nagatsuma brought her fingertip to her own lips. Even that gesture was sexy.
+My lower body began to respond with a throb.
+(T-This is bad...)
+I accidentally looked away.
+$Reiko
+“In that case, shall I let you test it out?”
+(Are you serious...?)
+Not knowing what to do, I just lost my words and could only stand there.
+At that moment, there was a loud knock on the door.
+$Female Voice
+“Head Nurse! Head Nurse! Are you here? I'm sorry to interrupt your talk! Could you come at once!?”
+$Reiko
+“Tsk... honestly.”
+The head nurse gave a small click of her tongue and opened the door. After exchanging a few words with the woman outside, she left without even looking back at me.
+(S-Saved...)
+Left alone, I breathed a sigh of relief.
+I hope no one saw me in a place like this... I thought, as I decided to quietly leave the room.
+If I was seen in a place like that, rumors would spread at once...
+If I were made a target for the chatty nurses, it would be the end of me.
+$Kouji
+“Y-You are...”
+Just as I left the room... I instinctively caught my breath.
+$Emiko
+“That was a close call, wasn't it...”
+Being told that, I lost my words.
+Was the one who saved me from that predicament Mochizuki-san...?
+$Emiko
+“I happened to see the two of you... and I thought it might be something like this... Ah, it's alright, I won't tell anyone about this...”
+Hearing those words, I let out a sigh of relief. It seems I avoided the worst-case scenario.
+$Emiko
+“But, I have a request...”
+$Kouji
+“A request?”
+$Emiko
+“...Next time, would you please go on a date with me?”
+$Kouji
+“...”
+(W-What does this mean? Why is she suddenly saying something like this...)
+Accept the date on the spot
+Can't answer anything
+$Kouji
+“Ah, um... well...”
+$Emiko
+“............”
+As I hesitated, she looked straight at me. From her expression, I could feel that those words earlier weren't a joke, but were for real.
+(Just what on earth should I answer...)
+$Kouji
+“...”
+$Emiko
+“Um, I'm sorry. For suddenly saying something strange...”
+After a moment of silence, she said that and bowed.
+But contrary to her words, a look of disappointment could be seen in her eyes.
+$Kouji
+“No, it's not like that...”
+$Emiko
+“Then, I'll return to work. Please excuse me.”
+Bowing once again, she turned her back and walked away.
+Watching her back, I felt a sense of relief somewhere in my heart.
+--------------------
+01-06
+********************
+(Was this really for the best?)
+I couldn't flatly refuse Mochizuki-san's invitation.
+Of course, I was completely confused by the unexpected invitation immediately after escaping a predicament.
+But... to be honest, I can't say that was all there was to it.
+(What an indecisive man I am...)
+While I was thinking about such things, my feet naturally headed toward the main wing where Surgery was.
+Yes, I wanted to see Karen's face one more time... but on the other hand, I also had concerns: would I be able to look at Karen's face properly?
+$Karen
+“Matsumoto-sa~n, you mustn't... you have to stay still.”
+When I arrived at the break area, I heard Karen's bright voice.
+It was convenient to know Karen's whereabouts, but... now, what should I do?
+Directly question her about the rumors
+Hide and observe Karen's behavior
+The reason I couldn't flatly refuse Mochizuki-san's invitation was, of course, because I had some ulterior motive toward her.
+But more than that, dark clouds were hanging over my heart. That was due to the rumors surrounding Karen.
+(...Not Karen, surely...)
+Even as I thought that, I couldn't wipe away the doubt that existed somewhere in my heart.
+I remembered Dr. Takahashi's story. Could it be that even Karen has been ‘devoured’ by Sawada...
+Just thinking that made my chest tighten.
+$Karen
+“Miyama-san, hello!”
+While I was thinking about this and that, Karen noticed me.
+$Kouji
+“Ah, h-hello...”
+$Karen
+“Oh, what's wrong? You look a bit downcast.”
+$Kouji
+“Eh... t-that's not the case, you know?”
+I looked down, averting my gaze from Karen's.
+(...Not Karen, surely...)
+I wanted to believe that.
+However, was there any man who would leave this attractive body hidden under Karen's nurse uniform alone?
+(All doctors are perverts...)
+$Karen
+“Hmm? You're acting strange today, Miyama-san. Could it be that it's ‘that day’ for you~”
+$Kouji
+“...”
+I couldn't even laugh at Karen's joke.
+$Karen
+“Ah... sorry, did I miss the mark again?”
+(What should I do...?)
+No, if I'm going to keep worrying about this and that, maybe it would be better to just try asking...
+$Kouji
+“Um... Takanashi-san?”
+$Karen
+“Yes?”
+Karen stared at me with a blank expression.
+I blurted out my doubts just as they were.
+$Kouji
+“Um... Takanashi-san... are you... with Assistant Professor Sawada... um...”
+I swallowed hard and let out all the words at once.
+$Kouji
+“...Are you in a mature relationship?”
+$Karen
+“Eh...?”
+For a moment, Karen wore an expression as if she didn't understand what she had been asked.
+$Kouji
+“...”
+I couldn't even find words to follow up.
+I felt as if the shadow of a cloud had passed over Karen's smile for just a moment.
+$Karen
+“Miyama-san...”
+$Kouji
+“Y-Yes...”
+Karen continued in a forced, bright voice.
+$Karen
+“That's sexual harassment. I'm not going to make a thing of it, but... you should be careful.”
+$Kouji
+“Ah... s-sorry.”
+I hurriedly bowed my head.
+$Karen
+“...It's okay since it's me, but if you say something like that to other nurses, depending on the situation, you might get sued...”
+$Kouji
+“S...Sorry...”
+(I made her angry, didn't I...)
+$Patient
+“Hey—, Nurse, help me out for a bit.”
+A patient's voice broke that awkward atmosphere.
+I felt a bit of relief.
+$Karen
+“Yes—, I'm coming now.”
+After answering the patient's call, Karen gave me a bow and left the spot.
+(I blew it............)
+Regret, large and black, covered my inside.
+I had no choice but to leave that place as if running away.
+I hesitated to face her directly, so I watched her from the shadows.
+The bright and cute Karen is the idol of the male inpatients.
+I could feel from the way they talked to her that everyone really loved Karen.
+That said, I too had felt her wonderfulness after coming into contact with her personality.
+Aside from her good looks and figure, there was her single-minded and dedicated attitude, her smile that made everyone feel bright, and a kind of warm maternity...
+She was probably the very image of an ideal nurse, and to me, she could be called the image of an ideal woman at the same time.
+Just spending time with her and breathing the same air made me feel so happy.
+Yes, that's enough for me.
+$Karen
+“Ah, Miyama-san, what's wrong? Hiding in a place like that. Ah—you were peeping at me, weren't you?”
+I was snapped back to reality by a mischievous voice.
+Karen was right there in front of me.
+I... couldn't look at her face properly.
+Karen: “Hey hey, Miyama-san, won't you listen to my latest impression that I just finished?
+Huh? What's wrong? You don't have much energy...”
+$Kouji
+“No... it's nothing.”
+$Karen
+“Really? Well, if you say so... by the way, it seems Dr. Sawada won't be back today. I just got word.”
+Sawada... hearing that name, the blood rushed to my head.
+I remembered Dr. Takahashi's story. Could it be that even Karen has been ‘devoured’ by Sawada.
+After all, there's no way he'd leave such a cute Karen alone.
+$Kouji
+“Ah, I see.”
+My words became blunt no matter what.
+Looking at Karen's face, the rumor that the nurse in Urology had mentioned flashed through my mind.
+"Girls who can be eaten get eaten by everyone..."
+Maybe Karen, not just by Sawada, but by everyone...
+$Karen
+“Miyama-san, you really don't have any energy. Are you okay?”
+Karen asked with a worried expression.
+$Kouji
+“No... I'm just not feeling very well...”
+$Karen
+“Oh... are you okay? Shall we have an examination?”
+While returning the words, my delusions swelled further and further, and a disheveled image overlapped with Karen in front of me.
+(This is no good, I can't meet her eyes...)
+$Kouji
+“I'm fine...”
+I managed to answer, but my voice was cruder than I intended.
+$Karen
+“...Do you have a fever...?”
+$Kouji
+“No, really, I'm fine.”
+$Karen
+“...”
+An awkward silence.
+$Kouji
+“...S-Sorry...”
+Unable to bear the silence, what came out of my mouth was an apology.
+(...Anyway, I have to organize my thoughts...)
+...Nothing has been made clear, so taking it out on Karen is uncalled for.
+$Karen
+“No... are you really okay? I'm kind of worried...”
+$Kouji
+“I'm just a bit tired. Really... please don't worry.”
+I forced out a smile with some artificial energy.
+$Karen
+“I-Is that so? Well, if you say so...”
+She seemed convinced by my words, but Karen still looked worried.
+With the guilt of lying to her, I couldn't find any more words either...
+$Patient
+“Hey—, Nurse, help me out for a bit.”
+A patient's voice broke that atmosphere.
+Usually, it was a voice that ended a pleasant time with Karen, but this time, it made me feel saved.
+$Karen
+“Yes—, I'm coming now.”
+After answering immediately, Karen tried to leave the spot with a bow.
+However, after turning her back and taking two or three steps toward the other side, she suddenly stopped and turned around.
+$Karen
+“Hey, Miyasaka-san, won't you go out for a meal with me next time?”
+(Eh? I feel like she just called me by my surname...)
+(No, there's no mistake. She definitely said ‘Miyasaka-san’... and also ‘won't you go out for a meal?’)
+(‘Miyasaka-san’, huh. It's not bad...)
+$Karen
+“Um—... Miyasaka-san?”
+$Kouji
+“Y-Ye-th!”
+Dammit, I accidentally lost myself.
+$Karen
+“You suddenly went quiet, but as expected... is it no good?”
+$Kouji
+“N-No! It's not like that...”
+$Patient
+“Hey—, Nurse, I said—!”
+$Karen
+“Ah, sorry! I'm coming now!”
+$Karen
+“Well then, let me hear your answer next time.”
+Saying that, this time Karen really disappeared into the patient room.
+$Karen
+"Hey, Miyasaka-san, won't you go out for a meal with me next time?"
+Those words from earlier floated in my head again.
+$Kouji
+“‘Miyasaka-san’, huh... it's really not bad.”
+This time I muttered it out loud as I left the spot.
+--------------------
+01-07
+********************
+The distance between Karen and me was steadily shrinking
+However, the next step from there was very far...
+Some time had passed since then, and one day, I was showing my face at the hospital as usual.
+$Kouji
+“Hello! It's Miyama Sangyo.”
+$Reiko
+“Ah, Miyama-san. Dr. Takahashi is calling for you.”
+I felt as if the head nurse had become even more blunt since that day.
+She probably felt a bit of awkwardness, but there hasn't been any obvious damage so far.
+Since I didn't flatly refuse her invitation, she probably couldn't find a reason to resent me.
+Well, it means the head nurse isn't a foolish enough woman to do something over that.
+$Kouji
+“Yes! Understood. I'll visit at once!”
+$Reiko
+“Honestly... your responses are the only good thing about you.”
+$Emiko
+“Miyama-san, hello. Thanks for your hard work.”
+Mochizuki-san appeared in front of me, taking the place of the head nurse who had left looking exasperated.
+$Kouji
+“Ah, hello! Thank you for your help!”
+$Emiko
+“It's tough every day, isn't it.”
+$Kouji
+“No, no, not at all.”
+We both passed each other with just a simple greeting.
+I hadn't given her a clear sign of my intent, and she hasn't said anything in particular either.
+However, I started to see her everywhere I went in this hospital.
+There was nothing more than that, though.
+And my feet were staying away from the main wing.
+Of course, I was happy that Karen called me by my surname and invited me to a meal... there's no mistake about that, no matter what anyone says.
+But every time I thought about Karen, the rumors from the nurses came to mind, and I couldn't accept her words honestly...
+On the surface, time passed monotonically, exactly the same as before, with nothing unusual.
+The nurse station in the old wing, the head nurse's cold attitude, Dr. Takahashi...
+(...This is fine, this...)
+I let out a sigh of relief. Yes, it was a sigh of relief.
+And I headed toward Dr. Takahashi's room as usual.
+$Takahashi
+“Ah, come to think of it, about that Sawada...”
+(Again... what on earth happened this time?)
+Spilling complaints about Assistant Professor Sawada every time we met had become Dr. Takahashi's habit lately. Of course, I had no choice but to listen in silence.
+Thinking that it might be Karen made my chest ache, but I had become able to endure it a bit more by closing off my heart as much as possible.
+I felt as if my previous composure was returning, little by little.
+$Takahashi
+“...The rumor is that he's forced quite a number of nurses into his hands even back in Tokyo... and what's more, he apparently does it right inside the hospital.”
+Mutter only in my mind: You're just the same
+Actually say: You're just the same
+(You're just the same...)
+The words were about to come out of my throat. But there's something I've come to understand lately.
+Many of those involved in medicine are lecherous, have a strong desire for career advancement, and are the kind of people who won't choose their means for their own goals.
+That's exactly why they stack up their efforts day by day and aim higher and higher.
+Surely, at that goal, there's some wonderful ‘something’ that completely satisfies their desires, something that we ordinary people can never obtain.
+(...Well, it doesn't concern me...)
+I kept pretending to listen seriously to Dr. Takahashi's story in silence.
+$Takahashi
+“By the way, Kitamura-kun...”
+$Kouji
+“Yes, what is it?”
+It's impossible to have this man call me by my proper name. Ever since I realized that, no matter what he calls me, I've just been giving half-hearted responses.
+$Takahashi
+“It seems Sawada has business with you; there was a call here yesterday. Honestly, that man, just because he's a bit skilled, he has such an arrogant attitude...”
+Dr. Takahashi's grumbling didn't seem like it would end yet.
+(If he's in, I suppose I should go... I wonder if Karen went out of her way for me...)
+I was thinking while giving appropriate nods.
+But if he's trying to contact a salesman with no prior acquaintance like me after hearing what one nurse said, then as expected, the two of them...
+...I can't help but think in that direction.
+(With these feelings, just what kind of face should I show Karen...)
+I remembered Karen's face when she invited me to a meal.
+Come to think of it, she wasn't smiling... her, at that time...
+It was true that I was unable to gauge her true intention.
+If I meet Assistant Professor Sawada, I might understand something...
+But what will become of me when I'm confronted with the worst fact?
+(Argh, anyway, nothing will start unless I meet him. This is also work!)
+Having made up my mind, I stood up.
