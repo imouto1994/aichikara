@@ -1,15 +1,15 @@
 /**
  * Export Translation Map
  *
- * Reads `original-merged-chunks/` and `translated-merged-chunks/`, parses
- * them into matching sections, and builds a JSON mapping of every unique
- * original line to its translated counterpart.
+ * Reads original and translated merged chunks, parses them into matching
+ * sections, and builds a JSON mapping of every unique original line to its
+ * translated counterpart.
  *
  * Speech source lines (＃ in original, $ in translated) and their following
  * content lines are merged into a single entry:
  *
- *   Original:  ＃宏治                →  key:   "〈宏治〉：はーあぁ……"
- *              「はーあぁ……」         value: "Koji: "Haaah...""
+ *   Original:  ＃宏治             →  key:   "宏治「はーあぁ……」"
+ *              「はーあぁ……」      value: "Koji: \"Ahhh...\""
  *
  * Narration lines are mapped directly:
  *
@@ -83,11 +83,6 @@ const SPEAKER_MAP = new Map([
   ["読者代表の２人", "Reader Representatives"],
 ]);
 
-const JP_BRACKET_PAIRS = [
-  ["「", "」"],
-  ["『", "』"],
-];
-
 function parseSections(text) {
   const raw = text.split(`${SECTION_SEPARATOR}\n`);
   const sections = new Map();
@@ -103,22 +98,6 @@ function parseSections(text) {
   }
 
   return sections;
-}
-
-function stripBracketsJP(line) {
-  for (const [open, close] of JP_BRACKET_PAIRS) {
-    if (line.startsWith(open) && line.endsWith(close)) {
-      return line.slice(1, -1);
-    }
-  }
-  return line;
-}
-
-function stripBracketsEN(line) {
-  if (line.startsWith("\u201C") && line.endsWith("\u201D")) {
-    return line.slice(1, -1);
-  }
-  return line;
 }
 
 async function main() {
@@ -147,6 +126,8 @@ async function main() {
         continue;
       }
 
+      // Speech lines: ＃ source + content on next line.
+      // Original uses full-width ＃, translated uses $.
       if (origLine.startsWith("＃")) {
         const speakerJP = origLine.slice(1);
         const speakerEN = SPEAKER_MAP.get(speakerJP);
@@ -159,8 +140,9 @@ async function main() {
           const contentOrig = origLines[i + 1];
           const contentTrans = transLines[i + 1];
 
-          const key = `〈${speakerJP}〉：${stripBracketsJP(contentOrig)}`;
-          const value = `${speakerEN || speakerJP}: \u201C${stripBracketsEN(contentTrans)}\u201D`;
+          // Key uses inline format: speaker name + bracketed content.
+          const key = `${speakerJP}${contentOrig}`;
+          const value = `${speakerEN || speakerJP}: ${contentTrans}`;
 
           if (!map.has(key)) {
             map.set(key, value);
@@ -176,6 +158,7 @@ async function main() {
         continue;
       }
 
+      // Narration lines — map original directly to translated.
       if (!map.has(origLine)) {
         map.set(origLine, transLine);
         totalPairs++;
